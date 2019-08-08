@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>Two File</p>
+        <p>One File</p>
     </div>
 </template>
 
@@ -10,8 +10,8 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 p{
-    color:blue
+    color:coral
 }
 </style>

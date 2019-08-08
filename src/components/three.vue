@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>Two File</p>
+        <h3>3rd File</h3>
     </div>
 </template>
 
@@ -9,9 +9,3 @@ export default {
     
 }
 </script>
-
-<style scoped>
-p{
-    color:blue
-}
-</style>
